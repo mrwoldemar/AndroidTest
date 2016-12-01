@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Hellobutt">Привет</string>
+    <string name="message">Бугага</string>
+    <string name="message2">Нет</string>
+</resources>
